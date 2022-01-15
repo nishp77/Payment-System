@@ -1,0 +1,12 @@
+Payment System using HyperCore
+
+- Blockchain as DB is the hypercore view or it's just my view
+
+- Soni's idea :- Having to saving the transactions in temp dir then verifying the transactions by mapping. 
+
+    Question:- 
+
+    1.  Who would verify the transactions once both parties write the transactions into temp dir?
+
+        - I think it would be opposite parties only and no third party invovled in verifying, though no idea if it's a good thing 
+          or not. Then we do need to charge any amount of fees or transactions? 
